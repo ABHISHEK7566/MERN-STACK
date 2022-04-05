@@ -1,0 +1,18 @@
+h1{
+    background-color: bisque;
+}
+
+#form{
+    background-color: yellowgreen;
+    color: black;
+}
+
+#table{
+    background-color: bisque;
+    border: solid 5px red;
+    border-radius: 10px;
+    width: 50%;
+    text-align: center justify;
+
+
+}

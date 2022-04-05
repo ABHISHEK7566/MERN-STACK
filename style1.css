@@ -1,0 +1,41 @@
+table,thead,tbody,td,th{
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    border-collapse: collapse;
+}
+table{
+    background-color: bisque;
+    width: 100%;
+}
+
+tr{
+    text-align: center;
+}
+
+/* td{
+    border-style: solid;
+    border-color: brown;
+    border-right-width: 0px;
+    border-left-width: 2px;
+    border-bottom-width: 2px;
+    border-top-width: 2px;
+}
+*/
+td,th{
+    padding: 15px;
+}
+
+th{
+    background-color: chartreuse;
+}
+
+tr:hover{
+    background-color: aqua;
+}
+
+/*pseudo
+*/
+tr:nth-child(even){
+    background-color: rgb(114, 82, 145);
+}

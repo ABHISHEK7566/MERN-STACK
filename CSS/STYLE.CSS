@@ -1,0 +1,40 @@
+h1{
+    background-color: blue;
+}
+
+#pan{
+    background-color: beige;
+    color: blueviolet;
+}
+
+#span1{
+    background-color: black;
+    color: whitesmoke;
+}
+
+/* 
+how to define a class in css
+*/
+
+.indore{
+    font-size: 60;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(219, 215, 223);
+}
+.bodysection{
+    background-image: url('images1/1953798.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+div{
+    border-width: 1px;
+    border-color: rgb(216, 206, 206);
+    border-style: solid;
+    width: 30%;
+    padding: 3%;
+    margin: 20px;
+    border-radius: 20px;
+    
+}
