@@ -1,0 +1,63 @@
+#Page{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: x-large;
+  font-weight: 700;
+  margin-left: 200px;
+  padding: 10px;
+  text-align: center;
+  font-size: 18px;
+  width: 800px;
+  margin-top: 100px;
+  background-color: aqua;
+  padding: 30px;
+  color: black;
+  border: solid;
+  border-radius: 20px;
+  justify-content: center;
+  letter-spacing: 2px;
+
+}
+
+.subbtn{
+font-family: Arial, Helvetica, sans-serif;
+font-size: large;
+margin-top: 50px;
+width: 500px;
+height: 40;
+padding: 2px;
+color: whitesmoke;
+background-color: maroon;
+border: solid;
+border-radius: 10px;
+justify-content: center;
+letter-spacing: 2px;
+
+}
+
+#ty1{
+width: 250px;
+height: 30px;
+border-style: none;
+border-radius: 10px;
+ 
+  
+ 
+
+}
+
+#ty2{
+width: 250px;
+height: 30px;
+border-style: none;
+border-radius: 10px;
+ 
+}
+
+#ty3{
+width: 250px;
+height: 30px;
+border-style: none;
+border-radius: 10px;
+ 
+}
+
